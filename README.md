@@ -2,6 +2,35 @@
 
 My code as I follow along with the Next.js "Create your First App" tutorial.
 
+## Navigation
+
+Clone this repository
+
+```bash
+git clone https://github.com/travishorn/nextjs-blog
+```
+
+Checkout the tag for the step you want to view
+
+```bash
+git checkout tags/v0.1.0
+```
+
+There's a Git tag for each step (as long as the step contains code changes).
+
+- v0.1.0 - [Setup](https://nextjs.org/learn/basics/create-nextjs-app/setup)
+- v0.2.0 - [Editing the page](https://nextjs.org/learn/basics/create-nextjs-app/editing-the-page)
+- v0.3.0 - [Pages in Next.js](https://nextjs.org/learn/basics/navigate-between-pages/pages-in-nextjs)
+- v0.4.0 - [Link Component](https://nextjs.org/learn/basics/navigate-between-pages/link-component)
+- v0.5.0 - [Assets](https://nextjs.org/learn/basics/assets-metadata-css/assets)
+- v0.6.0 - [Metadata](https://nextjs.org/learn/basics/assets-metadata-css/metadata)
+- v0.7.0 - [Third-party JavaScript](https://nextjs.org/learn/basics/assets-metadata-css/third-party-javascript)
+- v0.8.0 - [Layout Component](https://nextjs.org/learn/basics/assets-metadata-css/layout-component)
+- v0.9.0 - [Global Styles](https://nextjs.org/learn/basics/assets-metadata-css/global-styles)
+- v0.10.0 - [Polishing Layout](https://nextjs.org/learn/basics/assets-metadata-css/polishing-layout)
+- v0.11.0 - [Blog Data](https://nextjs.org/learn/basics/data-fetching/blog-data)
+- v0.12.0 - [Implement getStaticProps](https://nextjs.org/learn/basics/data-fetching/implement-getstaticprops)
+
 ## License
 
 The MIT License
