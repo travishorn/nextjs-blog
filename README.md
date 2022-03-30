@@ -1,6 +1,7 @@
 # Next.js Blog
 
-My code as I follow along with the Next.js "Create your First App" tutorial.
+My code as I follow along with the [Next.js "Create your First App"
+tutorial](https://nextjs.org/learn/basics/create-nextjs-app).
 
 ## Navigation
 
