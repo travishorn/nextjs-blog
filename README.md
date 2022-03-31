@@ -43,6 +43,7 @@ There's a Git tag for each step (as long as the step contains code changes).
 | [v0.20.0](https://github.com/travishorn/nextjs-blog/tree/v0.20.0) | [XML Sitemaps](https://nextjs.org/learn/seo/crawling-and-indexing/xml-sitemaps)                      |
 | [v0.21.0](https://github.com/travishorn/nextjs-blog/tree/v0.21.0) | [Special Tags](https://nextjs.org/learn/seo/crawling-and-indexing/metatags)                          |
 | [v0.22.0](https://github.com/travishorn/nextjs-blog/tree/v0.22.0) | [Canonical Tags](https://nextjs.org/learn/seo/crawling-and-indexing/canoncial)                       |
+| [v0.23.0](https://github.com/travishorn/nextjs-blog/tree/v0.23.0) | [URL Structure](https://nextjs.org/learn/seo/rendering-and-ranking/url-structure)                    |
 
 ## License
 
