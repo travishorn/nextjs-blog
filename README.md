@@ -39,6 +39,7 @@ There's a Git tag for each step (as long as the step contains code changes).
 | [v0.16.0](https://github.com/travishorn/nextjs-blog/tree/v0.16.0) | [Polishing the Post Page](https://nextjs.org/learn/basics/dynamic-routes/polishing-post-page)        |
 | [v0.17.0](https://github.com/travishorn/nextjs-blog/tree/v0.17.0) | [Polishing the Index Page](https://nextjs.org/learn/basics/dynamic-routes/polishing-index-page)      |
 | [v0.18.0](https://github.com/travishorn/nextjs-blog/tree/v0.18.0) | [Creating API Routes](https://nextjs.org/learn/basics/api-routes/creating-api-routes)                |
+| [v0.19.0](https://github.com/travishorn/nextjs-blog/tree/v0.19.0) | [Robots.txt](https://nextjs.org/learn/seo/crawling-and-indexing/robots-txt)                          |
 
 ## License
 
