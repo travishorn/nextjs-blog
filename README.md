@@ -36,6 +36,7 @@ There's a Git tag for each step (as long as the step contains code changes).
 | [v0.13.0](https://github.com/travishorn/nextjs-blog/tree/v0.13.0) | [Implement getStaticPaths](https://nextjs.org/learn/basics/dynamic-routes/implement-getstaticpaths)  |
 | [v0.14.0](https://github.com/travishorn/nextjs-blog/tree/v0.14.0) | [Implement getStaticProps](https://nextjs.org/learn/basics/dynamic-routes/implement-getstaticprops)  |
 | [v0.15.0](https://github.com/travishorn/nextjs-blog/tree/v0.15.0) | [Render Markdown](https://nextjs.org/learn/basics/dynamic-routes/render-markdown)                    |
+| [v0.16.0](https://github.com/travishorn/nextjs-blog/tree/v0.16.0) | [Polishing the Post Page](https://nextjs.org/learn/basics/dynamic-routes/polishing-post-page)        |
 
 ## License
 
