@@ -45,6 +45,7 @@ There's a Git tag for each step (as long as the step contains code changes).
 | [v0.22.0](https://github.com/travishorn/nextjs-blog/tree/v0.22.0) | [Canonical Tags](https://nextjs.org/learn/seo/crawling-and-indexing/canoncial)                       |
 | [v0.23.0](https://github.com/travishorn/nextjs-blog/tree/v0.23.0) | [URL Structure](https://nextjs.org/learn/seo/rendering-and-ranking/url-structure)                    |
 | [v0.24.0](https://github.com/travishorn/nextjs-blog/tree/v0.24.0) | [SEO Metadata](https://nextjs.org/learn/seo/rendering-and-ranking/metadata)                          |
+| [v0.25.0](https://github.com/travishorn/nextjs-blog/tree/v0.25.0) | [On Page SEO](https://nextjs.org/learn/seo/rendering-and-ranking/on-page-seo)                        |
 
 ## License
 
