@@ -33,6 +33,7 @@ There's a Git tag for each step (as long as the step contains code changes).
 | [v0.10.0](https://github.com/travishorn/nextjs-blog/tree/v0.10.0) | [Polishing Layout](https://nextjs.org/learn/basics/assets-metadata-css/polishing-layout)             |
 | [v0.11.0](https://github.com/travishorn/nextjs-blog/tree/v0.11.0) | [Blog Data](https://nextjs.org/learn/basics/data-fetching/blog-data)                                 |
 | [v0.12.0](https://github.com/travishorn/nextjs-blog/tree/v0.12.0) | [Implement getStaticProps](https://nextjs.org/learn/basics/data-fetching/implement-getstaticprops)   |
+| [v0.13.0](https://github.com/travishorn/nextjs-blog/tree/v0.12.0) | [Implement getStaticPaths](https://nextjs.org/learn/basics/dynamic-routes/implement-getstaticpaths)  |
 
 ## License
 
