@@ -6,7 +6,7 @@ const RedLink = styled.a`
   color: red;
 `;
 
-function NavLink({ href, name }) {
+function NavLink({ href, name }: { href: string; name: string}) {
   return (
     <Link href={href} passHref>
       <RedLink>{name}</RedLink>

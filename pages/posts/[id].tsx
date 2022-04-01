@@ -1,12 +1,12 @@
 import Head from "next/head";
+import { GetStaticPaths, GetStaticProps } from "next";
 import Layout from "../../components/layout";
 import Date from "../../components/date";
-import { getPostData } from "../../lib/posts";
+import { getAllPostIds, getPostData } from "../../lib/posts";
 import utilStyles from "../../styles/utils.module.css";
 
-export async function getServerSideProps({ query }) {
-  console.log(query);
-  const postData = await getPostData(query.id);
+export const getStaticProps: GetStaticProps = async ({ params }) => {
+  const postData = await getPostData(params.id as string);
   return {
     props: {
       postData,
@@ -14,7 +14,23 @@ export async function getServerSideProps({ query }) {
   };
 };
 
-export default function Post({ postData }) {
+export const getStaticPaths: GetStaticPaths = async () => {
+  const paths = getAllPostIds();
+  return {
+    paths,
+    fallback: false,
+  };
+};
+
+export default function Post({
+  postData,
+}: {
+  postData: {
+    title: string,
+    date: string,
+    contentHtml: string,
+  },
+}) {
   return (
     <Layout>
       <Head>
